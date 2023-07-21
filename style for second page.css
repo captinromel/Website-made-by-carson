@@ -1,0 +1,41 @@
+h1 {
+    color:blue;
+    text-align: center;
+}
+h2{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+p{
+    color:cornflowerblue; 
+}
+body{
+    background-color:royalblue; 
+}
+button {
+    background-color:blue; /* black */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 12px;
+  }
+  button  {
+    background-color: blue; /* black */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 12px;
+  }
+  body{
+    background-image: url('https://t3.ftcdn.net/jpg/02/62/90/42/360_F_262904272_wLXAuoG88apy7L48g1fqyw1Fwf61Bzxy.jpg');
+    background-repeat: no-repeat;
+    background-size:cover ;
+  }
